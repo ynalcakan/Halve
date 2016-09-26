@@ -16,5 +16,6 @@ in a [vintage view](http://www.flickr.com/106092908@N08).
 
 
 
->“Colorless green ideas sleep furiously.” 
-― Noam Chomsky
+
+> “Colorless green ideas sleep furiously.” 
+                            ― Noam Chomsky
