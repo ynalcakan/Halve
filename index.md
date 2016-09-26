@@ -13,9 +13,5 @@ As you can understand, [GEB](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_B
 I've a new hobby in these times "analog photography". It's like looking this milenium world
 in a [vintage view](http://www.flickr.com/106092908@N08).
 
-
-
-
-
 > “Colorless green ideas sleep furiously.” 
->                           ― Noam Chomsky
+>                          ― Noam Chomsky
