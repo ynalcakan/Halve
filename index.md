@@ -14,6 +14,5 @@ I've a new hobby in these times "analog photography". It's like looking this mil
 in a [vintage view](http://www.flickr.com/106092908@N08).
 
 
-> “Colorless green ideas sleep furiously.”
-
+> “Colorless green ideas sleep furiously.” 
 > ― Noam Chomsky
