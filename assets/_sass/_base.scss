@@ -27,7 +27,7 @@ body {
 
 body {
   font-family: $base-font;
-  color: $overlay-color;
+  color: lighten($black, 30%);
   background: $white;
 }
 
