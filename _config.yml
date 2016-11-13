@@ -21,6 +21,7 @@ kramdown:
   entity_output:    as_char
   toc_levels:       1..6
   enable_coderay:   false
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
 sass:
   sass_dir:         assets/_sass
   style:            compressed
