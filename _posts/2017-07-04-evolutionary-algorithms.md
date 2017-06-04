@@ -5,8 +5,8 @@ categories:
   - Computer Science
 tags:
   - evolution
-  - algorithms
   - nature-inspried
+  - algorithms
   - genetic
   - mutation
   - crossover
