@@ -3,8 +3,8 @@ layout: home
 ---
 # About
 
-I'm a computer engineer who currently working as a Python Software Developer at [Propars Tech](http://www.propars.net/) in Istanbul.
-My work interests: ML, AI, abductive logic programming(ALP), natural language programming(NLP)
+I'm a computer engineer who currently working as a Research Assistant at [Altınbaş University](http://www.altinbas.edu.tr/) in Istanbul.
+My work interests: AI, ML, abductive logic programming(ALP), natural language programming(NLP)
 and data visualization. 
   
 About personal info,
