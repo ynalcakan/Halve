@@ -140,7 +140,8 @@ canvas {
 }
 
 .posts-link,
-.projects-link{
+.projects-link,
+.orcid-link {
   position: absolute;
   top: 73px;
   font-size: 12px;
@@ -151,7 +152,7 @@ canvas {
   right: 90px;
 }
 
-.orcid-link {
+.orcid-menu-icon {
   position: absolute;
   top: 30px;
   right: 90px;
@@ -159,6 +160,33 @@ canvas {
   height: 25px;
   border: 2px solid $gray;
   background: $white;
+  &:before {
+    content: '';
+    width: 20px;
+    height: 25px;
+    position: absolute;
+    right: 2px;
+    border: 2px solid $gray;
+    top: 2px;
+    background: $white;
+  }
+  &:after {
+    content: '';
+    width: 20px;
+    height: 25px;
+    border: 2px solid $gray;
+    position: absolute;
+    right: 6px;
+    top: 6px;
+    background: $white;
+  }
+  &:hover {
+    border-color: $green;
+    &:before,
+    &:after {
+      border-color: $green;
+    }
+  }
 }
 
 .projects-link {
