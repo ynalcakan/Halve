@@ -140,7 +140,8 @@ canvas {
 }
 
 .posts-link,
-.projects-link {
+.projects-link,
+.orcid-link {
   position: absolute;
   top: 73px;
   font-size: 12px;
@@ -148,6 +149,10 @@ canvas {
 }
 
 .posts-link {
+  right: 90px;
+}
+
+.orcid-link {
   right: 90px;
 }
 
