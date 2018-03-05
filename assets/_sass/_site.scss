@@ -153,10 +153,12 @@ canvas {
 
 .orcid-link {
   position: absolute;
-  top: 73px;
-  font-size: 12px;
-  color: darken($white, 40);
+  top: 30px;
   right: 90px;
+  width: 20px;
+  height: 25px;
+  border: 2px solid $gray;
+  background: $white;
 }
 
 .projects-link {
