@@ -18,11 +18,11 @@ in a [vintage view](http://www.flickr.com/106092908@N08). Also I'm adding my MSc
 > The hate of men will pass, and dictators die.
 > And the power they took from the people will return to the people.
 > And so long as men die, liberty will never perish.
-> Don't give yourselves to these unnatural men
+> Don't give yourselves to these unnatural men.
 > Machine men with machine minds and machine hearts!
 > You are not machines, you are not cattle, you are men!
-> You, the people, have the power to make this life free and beautiful
-> To make this life a wonderful adventure
+> You, the people, have the power to make this life free and beautiful.
+> To make this life a wonderful adventure.
 > Let us use that power!
 > Let us all unite!.” 
 > ― Charlie Chaplin - From the movie The Great Dictator
