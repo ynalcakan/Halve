@@ -3,7 +3,7 @@ layout: home
 ---
 # About
 
-I'm a Ph.D. Student who currently working on a TUBITAK research project at [Computer Vision Research Group - CVRG](http://cvrg.iyte.edu.tr) [Izmir Institute of Technology](http://www.iyte.edu.tr/) in Izmir.
+I'm a Ph.D. Student who currently working on a TUBITAK research project at [Computer Vision Research Group - CVRG](http://cvrg.iyte.edu.tr) - [Izmir Institute of Technology](http://www.iyte.edu.tr/) in Izmir.
 My work interests: AI, ML, Computer vision, Bio informatics, abductive logic programming(ALP) and data visualization. 
   
 About personal info,
