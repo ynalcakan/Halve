@@ -9,7 +9,7 @@ My work interests: AI, ML, Computer vision, Bio informatics, abductive logic pro
 About personal info,
 I love reading about psychology, sociology, neuroscience, philosophy.
 As you can understand, [GEB](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) is like a holly book for me!
-And I've a new hobby in these days "analog photography". It's like looking this milenium world
+And I've a new hobby in these days "analog photography". It's like looking this modern world
 in a [vintage view](http://www.flickr.com/106092908@N08). Also I'm adding my MSc presentations(Turkish) to that Google Drive [link](https://drive.google.com/drive/folders/0Bx_6kuYBoaAealJhcTVsV3Q4V1E?usp=sharing).
 > “To those who can hear me, I say, do not despair.
 > The misery that is now upon us is but the passing of greed.
