@@ -8,8 +8,8 @@ My work interests: AI, ML, Computer vision, Behaviour Prediction and data visual
   
 About personal info,
 I love reading about psychology, sociology, neuroscience, philosophy.
-As you can understand, [GEB](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) is like a holly book for me!
-And I've a new hobby in these days "analog photography". It's like looking this modern world
+As you can understand, [GEB](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) is like a holy book for me!
+And I've a new hobby these days "analog photography". It's like looking at this modern world
 in a [vintage view](http://www.flickr.com/106092908@N08).
 > “To those who can hear me, I say, do not despair.
 > The misery that is now upon us is but the passing of greed.
